@@ -31,7 +31,7 @@ Diseños propios de placas para sensores, controladores y módulos simples. Incl
 
 ### 🖨️ Diseño 3D (para impresión)
 Modelado de gabinetes, soportes y piezas funcionales para electrónica o automatización. Archivos `.stl`, `.step` y renders del diseño.  
-🔗 [Ver modelos 3D](https://github.com/tu-usuario-aqui?tab=repositories&q=3d)
+🔗 [Ver modelos 3D](https://github.com/SantiagoBaeza/-Dise-os-3D-/blob/main/README.md)
 
 ---
 
