@@ -1,13 +1,12 @@
-# 🛠️ Portafolio Técnico - Santiago Baeza
+# Repositorio Técnico - Santiago Baeza
 
-¡Bienvenido/a a mi repositorio principal!  
 Este espacio está dedicado a compartir y documentar mis avances, proyectos y aprendizajes en el mundo del desarrollo electrónico, automatización, diseño 3D y prototipado.
 
-Soy estudiante de Ingeniería Electrónica y un entusiasta autodidacta de la tecnología. Aquí encontrarás proyectos personales y de práctica con microcontroladores, diseño de PCBs, PLCs y modelado para impresión 3D.
+Soy estudiante de Ingeniería Electrónica. Aca encontrarás proyectos personales y de práctica con microcontroladores, diseño de PCBs, PLCs y modelado para impresión 3D.
 
 ---
 
-## 📂 Categorías de proyectos
+## Categorías de proyectos
 
 ### 🔌 Arduino
 Pequeños y medianos proyectos utilizando Arduino UNO, Nano y Mega. Control de sensores, automatización, comunicación serie, y más.  
@@ -35,7 +34,7 @@ Modelado de gabinetes, soportes y piezas funcionales para electrónica o automat
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Este repositorio busca servir como registro de mi progreso en el área técnica, mostrando tanto proyectos finalizados como ejercicios prácticos que me ayudan a fortalecer mis habilidades.
 
@@ -47,9 +46,8 @@ Mi meta es seguir creciendo profesionalmente en el mundo del desarrollo embebido
 
 Si querés ver más de mi trabajo o colaborar en algún proyecto, podés contactarme por:
 
-- 📧 Email: [santiagonicolasbaeza@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/santiago-baeza-b13638366/]
-- 🌐 Más info próximamente en mi página personal.
+- Email: [santiagonicolasbaeza@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/santiago-baeza-b13638366/]
 
 ---
 
