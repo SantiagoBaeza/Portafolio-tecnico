@@ -20,9 +20,9 @@ Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control r
 Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
 🔗 [Ver proyectos con STM32](https://github.com/tu-usuario-aqui?tab=repositories&q=stm32)
 
-### 🧠 PLC Siemens (TIA Portal)
-Automatización básica con PLCs Siemens: lógicas cableadas, diagramas ladder, control de salidas, temporizadores, etc.  
-🔗 [Ver prácticas con TIA Portal](https://github.com/tu-usuario-aqui?tab=repositories&q=plc)
+### 🧠 Proyectos con PLC/HMI/SCADA
+Automatización básica con PLCs Siemens, creacion de interfaces para visualizar procesos.  
+🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
 ### 🧾 Diseño de PCBs (KiCad)
 Diseños propios de placas para sensores, controladores y módulos simples. Incluye esquemas, layout, y archivos Gerber listos para fabricar.  
