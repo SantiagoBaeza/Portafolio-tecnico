@@ -1,36 +1,42 @@
-# Repositorio Técnico - Santiago Baeza
+# Repositorio - Santiago Baeza
 
-Este espacio está dedicado a compartir y documentar mis avances, proyectos y aprendizajes en el mundo del desarrollo electrónico, automatización, diseño 3D y prototipado.
+Este espacio está dedicado a compartir y documentar mis avances, proyectos y aprendizajes del desarrollo electrónico, automatización, diseño 3D y prototipado.
 
-Soy estudiante de Ingeniería Electrónica. Aca encontrarás proyectos personales y de práctica con microcontroladores, diseño de PCBs, PLCs y modelado para impresión 3D.
+Soy estudiante de Ingeniería Electrónica. Aca hay proyectos personales y de práctica con microcontroladores, diseño de PCBs, PLCs, modelado para impresión 3D, etc.
 
 ---
 
-## Categorías de proyectos
+## Proyectos
 
-### 🔌 Arduino
-Pequeños y medianos proyectos utilizando Arduino UNO, Nano y Mega. Control de sensores, automatización, comunicación serie, y más.  
-🔗 [Ver proyectos de Arduino](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
+---
 
-### 📡 ESP32
-Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
-🔗 [Ver proyectos con ESP32](https://github.com/tu-usuario-aqui?tab=repositories&q=esp32)
+###  Microcontroladores
+Agrupación de proyectos con diferentes plataformas de hardware embebido (Arduino, ESP32, STM32).  
+🔗 [Ver proyectos de Microcontroladores](ENLACE-AQUI)
 
-### ⚙️ STM32
-Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
-🔗 [Ver proyectos con STM32](https://github.com/tu-usuario-aqui?tab=repositories&q=stm32)
+---
 
-### 🧠 Proyectos con PLC/HMI/SCADA
-Automatización básica con PLCs Siemens, creacion de interfaces para visualizar procesos.  
-🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
+###  Automatización Industrial
+Proyectos integrados con PLC, HMI y SCADA.  
 
-### 🧾 Diseño de PCBs (KiCad)
-Diseños propios de placas para sensores, controladores y módulos simples. Incluye esquemas, layout, y archivos Gerber listos para fabricar.  
-🔗 [Ver diseños en KiCad](https://github.com/tu-usuario-aqui?tab=repositories&q=kicad)
+- **PLC/HMI/SCADA**  
+  Automatización básica con PLCs Siemens, creación de interfaces para visualizar procesos.  
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
-### 🖨️ Diseño 3D (para impresión)
-Modelado de gabinetes, soportes y piezas funcionales para electrónica o automatización. Archivos `.stl`, `.step` y renders del diseño.  
-🔗 [Ver modelos 3D](https://github.com/SantiagoBaeza/-Dise-os-3D-/blob/main/README.md)
+---
+
+###  Diseño y Modelado
+Sección dedicada a proyectos de diseño electrónico y mecánico (PCBs, 3D, 2D).  
+🔗 [Ver proyectos de Diseño](ENLACE-AQUI)
+
+---
+
+###  Programación
+Lenguajes y entornos de desarrollo.  
+
+- **C, C++, Python y Qt Creator**  
+  Lógica de programación, conceptos importantes y diseño de interfaces.  
+  🔗 [Ver proyectos de Programación](ENLACE-AQUI)
 
 ---
 
@@ -42,7 +48,7 @@ Mi meta es seguir creciendo profesionalmente en el mundo del desarrollo embebido
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 Si querés ver más de mi trabajo o colaborar en algún proyecto, podés contactarme por:
 
@@ -51,4 +57,4 @@ Si querés ver más de mi trabajo o colaborar en algún proyecto, podés contact
 
 ---
 
-> 🚧 Este portafolio está en construcción y se actualiza frecuentemente.
+> 🚧 Este espacio está en construcción y se actualiza frecuentemente.
