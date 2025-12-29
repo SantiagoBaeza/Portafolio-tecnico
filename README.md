@@ -18,10 +18,7 @@ Agrupación de proyectos con diferentes plataformas de hardware embebido (Arduin
 ---
 
 ###  Automatización Industrial
-Proyectos integrados con PLC, HMI y SCADA.  
-
-- **PLC/HMI/SCADA**  
-  Automatización básica con PLCs Siemens, creación de interfaces para visualizar procesos.  
+Proyectos integrados con PLC, HMI y SCADA. Automatización básica, creación de interfaces para visualizar procesos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
 ---
@@ -33,10 +30,8 @@ Sección dedicada a proyectos de diseño electrónico y mecánico (PCBs, 3D, 2D)
 ---
 
 ###  Programación
-Lenguajes y entornos de desarrollo.  
-
-- **C, C++, Python y Qt Creator**  
-  Lógica de programación, conceptos importantes y diseño de interfaces.  
+Lenguajes y entornos de desarrollo. C, C++, Python y Qt Creator.
+Lógica de programación, conceptos importantes y diseño de interfaces.  
   🔗 [Ver proyectos de Programación](https://github.com/SantiagoBaeza/Programaci-n/tree/main)
 
 ---
