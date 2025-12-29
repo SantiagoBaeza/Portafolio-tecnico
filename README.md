@@ -41,6 +41,12 @@ Lenguajes y entornos de desarrollo.
 
 ---
 
+### Proyectos Integrales
+Proyectos que integran distintas áreas de trabajo (electrónica, programación, diseño mecánico y prototipado).  
+🔗 [Ver repositorio de Proyectos](https://github.com/SantiagoBaeza/Proyectos-Multidisciplinarios)
+
+---
+
 ## Objetivo
 
 Este repositorio busca servir como registro de mi progreso en el área técnica, mostrando tanto proyectos finalizados como ejercicios prácticos que me ayudan a fortalecer mis habilidades.
