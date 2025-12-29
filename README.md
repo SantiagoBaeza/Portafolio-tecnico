@@ -37,7 +37,7 @@ Lenguajes y entornos de desarrollo.
 
 - **C, C++, Python y Qt Creator**  
   Lógica de programación, conceptos importantes y diseño de interfaces.  
-  🔗 [Ver proyectos de Programación](ENLACE-AQUI)
+  🔗 [Ver proyectos de Programación](https://github.com/SantiagoBaeza/Programaci-n/tree/main)
 
 ---
 
