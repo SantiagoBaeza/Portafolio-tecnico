@@ -43,7 +43,7 @@ Lenguajes y entornos de desarrollo.
 
 ### Proyectos Integrales
 Proyectos que integran distintas áreas de trabajo (electrónica, programación, diseño mecánico y prototipado).  
-🔗 [Ver repositorio de Proyectos](https://github.com/SantiagoBaeza/Proyectos-Multidisciplinarios)
+🔗 [Ver repositorio de Proyectos](https://github.com/SantiagoBaeza/Proyectos-Integrales)
 
 ---
 
