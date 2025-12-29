@@ -57,4 +57,4 @@ Si querés ver más de mi trabajo o colaborar en algún proyecto, podés contact
 
 ---
 
-> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
