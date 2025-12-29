@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería Electrónica y utilizo este repositorio como punto
 
 ###  Microcontroladores
 Agrupación de proyectos con diferentes plataformas de hardware embebido (Arduino, ESP32, STM32).  
-🔗 [Ver proyectos de Microcontroladores](ENLACE-AQUI)
+🔗 [Ver proyectos de Microcontroladores](https://github.com/SantiagoBaeza/microcontroladores/tree/main)
 
 ---
 
