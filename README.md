@@ -45,8 +45,6 @@ Lenguajes y entornos de desarrollo.
 
 Este repositorio busca servir como registro de mi progreso en el área técnica, mostrando tanto proyectos finalizados como ejercicios prácticos que me ayudan a fortalecer mis habilidades.
 
-Mi meta es seguir creciendo profesionalmente en el mundo del desarrollo embebido, automatización e integración entre hardware y software.
-
 ---
 
 ##  Contacto
