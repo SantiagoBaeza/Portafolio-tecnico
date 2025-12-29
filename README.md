@@ -1,8 +1,9 @@
 # Repositorio - Santiago Baeza
 
-Este espacio está dedicado a compartir y documentar mis avances, proyectos y aprendizajes del desarrollo electrónico, automatización, diseño 3D y prototipado.
+Este espacio reúne y organiza mis proyectos y aprendizajes en desarrollo electrónico, automatización y diseño.  
+Incluye trabajos con microcontroladores, PLCs, diseño de PCBs, modelado 3D para impresión y prototipado funcional.  
 
-Soy estudiante de Ingeniería Electrónica. Aca hay proyectos personales y de práctica con microcontroladores, diseño de PCBs, PLCs, modelado para impresión 3D, etc.
+Soy estudiante de Ingeniería Electrónica y utilizo este repositorio como punto de acceso a mis proyectos personales y de práctica, documentados por áreas de trabajo.
 
 ---
 
