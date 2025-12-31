@@ -25,7 +25,7 @@ Proyectos integrados con PLC, HMI y SCADA. Automatización básica, creación de
 
 ###  Diseño y Modelado
 Sección dedicada a proyectos de diseño electrónico y mecánico (PCBs, 3D, 2D).  
-🔗 [Ver proyectos de Diseño](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/blob/main/README.md)
+🔗 [Ver proyectos de Diseño](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/tree/main)
 
 ---
 
