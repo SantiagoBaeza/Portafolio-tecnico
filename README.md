@@ -17,7 +17,7 @@ Agrupación de proyectos con diferentes plataformas de hardware embebido (Arduin
 
 ---
 
-###  Automatización Industrial
+###  Automatización Industrial 🔥
 Proyectos integrados con PLC, HMI y SCADA. Automatización básica, creación de interfaces para visualizar procesos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
